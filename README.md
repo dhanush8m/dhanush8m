@@ -1,231 +1,144 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=180&section=header&text=DHANUSH%20M&fontSize=46&fontColor=F0F6FC&fontAlignY=45&desc=Python%20Backend%20%7C%20Django%20%7C%20Full%20Stack%20Developer&descAlignY=68&descSize=16&descColor=8B949E&animation=fadeIn"/>
-
-<br/>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Python%20Backend-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF&labelColor=0D1117&color=161B22" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-0D1117?style=for-the-badge&logo=checkmarx&logoColor=7EE787&labelColor=0D1117&color=161B22" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/India-0D1117?style=for-the-badge&logo=googlemaps&logoColor=58A6FF&labelColor=0D1117&color=161B22" />
+<!-- Animated Typing Header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+there%2C+I'm+Dhanush+M+%F0%9F%91%8B;Computer+Science+%26+Data+Science+Undergrad;Full+Stack+Developer+%7C+Data+Analyst;Turning+Data+Into+Decisions+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+scalable+backends+with+Django;Turning+raw+data+into+real+decisions;REST+APIs+%7C+React.js+%7C+SQL+%7C+Analytics;Currently%3A+B.E.+CS+%26+Data+Science+%E2%80%A2+CGPA+8.2" alt="Typing SVG" />
+<!-- Animated Wave Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7A00FF&height=200&section=header&text=Welcome%20To%20My%20GitHub&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20scalable%20apps%20%7C%20Exploring%20data%20%7C%20Solving%20real-world%20problems&descAlignY=55&descSize=18"/>
 
 </div>
 
-<br/>
+<!-- Profile Views & Socials -->
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanushmanjunatha08@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00F7FF?style=for-the-badge&logo=vercel&logoColor=white)](#)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=for-the-badge&color=7A00FF&label=PROFILE+VIEWS)
 
-<br/>
+</div>
 
-## `01` &nbsp; About
+---
 
-```python
-class Developer:
-    def __init__(self):
-        self.name       = "Dhanush M"
-        self.role       = "Python Backend & Full Stack Developer"
-        self.location   = "India"
-        self.education  = "B.E. Computer Science & Data Science — CGPA 8.2"
+## 🧑‍💻 About Me
 
-    def builds(self) -> list:
-        return [
-            "Scalable Django backends & REST APIs",
-            "Data-driven applications with real analytical value",
-            "Clean, maintainable full-stack systems"
-        ]
+<img align="right" alt="Coding GIF" width="380" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/assets/gifs/coding.gif">
 
-    def is_learning(self) -> list:
-        return ["Advanced Django patterns", "React.js", "Applied Data Analytics"]
+- 🎓 B.E. in **Computer Science and Data Science**, Maharaja Institute of Technology, Mysore *(2022 – 2026)* — CGPA: **8.2**
+- 💻 Passionate about **Web Development**, **Data Analytics**, and building **scalable, data-driven applications**
+- 🐍 Experienced with **Python, Django, React.js, SQL** and modern web technologies
+- 📊 Skilled in **EDA, Data Cleaning, Power BI, Tableau** for turning raw data into insights
+- 🤖 Exploring **AI/NLP** — OCR, Speech-to-Text & Text-to-Speech systems
+- 🏆 **3rd Place** — HAXLR8 24-Hour National Hackathon
+- 🌱 Currently sharpening skills in full-stack development and applied data science
+- ⚡ Fun fact: I enjoy solving real-world problems through code, one commit at a time!
 
-    def motivation(self) -> str:
-        return "Solving the right problems — not just writing more code."
+<br clear="right"/>
 
+---
 
-me = Developer()
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js) ![SQL](https://skillicons.dev/icons?i=mysql) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css)
+
+### Frameworks & Libraries
+![React](https://skillicons.dev/icons?i=react) ![Django](https://skillicons.dev/icons?i=django) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![NodeJS](https://skillicons.dev/icons?i=nodejs)
+
+### Databases
+![SQLite](https://skillicons.dev/icons?i=sqlite) ![MySQL](https://skillicons.dev/icons?i=mysql)
+
+### Data & Visualization
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+
+### Tools & Platforms
+![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Postman](https://skillicons.dev/icons?i=postman) ![Jupyter](https://skillicons.dev/icons?i=jupyter)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7A00FF&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=7A00FF&currStreakLabel=00F7FF"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=7A00FF&point=ffffff"/>
+</div>
+
+---
+
+## 🚀 Featured Project
+
+### 📚 Digital Library and Book Exchange System
+`Python` `Django` `SQLite` `HTML` `CSS` `JavaScript` `Open Library API`
+
+- Full-stack web app for book discovery, borrowing, exchange, and review management
+- Authentication, profile management, wishlists, ratings, reviews & reading progress tracking
+- Integrated Open Library API for ISBN-based automatic book metadata retrieval
+- Admin dashboards for user monitoring, inventory, and transaction tracking
+
+[![View Repo](https://img.shields.io/badge/View_Repository-00F7FF?style=for-the-badge&logo=github&logoColor=black)](#)
+
+---
+
+## 💼 Experience
+
+```text
+🐍 Python Full Stack Intern — QSpiders, Mysuru                    (Jan 2025 – May 2025)
+   → Django (MVT), Auth, DB Integration, Search & Filtering, Admin Dashboards
+
+📈 Data Science and Analytics Intern — Zidio Development, Remote   (2025)
+   → Data Cleaning, EDA, SQL Analysis, Statistical Reporting & Dashboards
 ```
 
-<br/>
+---
 
-## `02` &nbsp; Tech Stack
+## 🎯 Certifications & Achievements
 
-<table align="center">
-<tr>
-<td valign="top" width="33%">
+- 🏅 Python Full Stack Development — QSpiders
+- 🏅 Data Science and Analytics Internship — Zidio Development
+- 🏅 Power BI for Data Analytics
+- 🏅 SQL and Database Management
+- 🏆 3rd Place — HAXLR8 24-Hour National Hackathon
 
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=7EE787" />
-<img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=58A6FF" />
+---
 
-**Backend**
-<br/>
-<img src="https://img.shields.io/badge/Django-0D1117?style=flat-square&logo=django&logoColor=7EE787" />
-<img src="https://img.shields.io/badge/REST%20APIs-0D1117?style=flat-square&logo=fastapi&logoColor=58A6FF" />
-
-</td>
-<td valign="top" width="33%">
-
-**Frontend**
-<br/>
-<img src="https://img.shields.io/badge/React.js-0D1117?style=flat-square&logo=react&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=7EE787" />
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=58A6FF" />
-
-**Database**
-<br/>
-<img src="https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=7EE787" />
-<img src="https://img.shields.io/badge/RDBMS-0D1117?style=flat-square&logo=oracle&logoColor=58A6FF" />
-
-</td>
-<td valign="top" width="33%">
-
-**Analytics**
-<br/>
-<img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=7EE787" />
-<img src="https://img.shields.io/badge/Power%20BI-0D1117?style=flat-square&logo=powerbi&logoColor=58A6FF" />
-
-**Tools**
-<br/>
-<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=7EE787" />
-<img src="https://img.shields.io/badge/VS%20Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=58A6FF" />
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## `03` &nbsp; Timeline
-
-<table>
-<tr><td width="90"><b>2022</b></td><td>Began B.E. in Computer Science & Data Science</td></tr>
-<tr><td><b>2025</b></td><td>Python Full Stack Internship — <i>QSpiders, Mysuru</i></td></tr>
-<tr><td><b>2025</b></td><td>Data Science & Analytics Internship — <i>Zidio Development</i></td></tr>
-<tr><td><b>2026</b></td><td>Graduation — B.E. Computer Science & Data Science</td></tr>
-</table>
-
-<br/>
-
-## `04` &nbsp; Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📚 Digital Library & Book Exchange System
-
-Full-stack platform for book discovery, borrowing, exchange, and review management.
-
-**Stack:** Django · SQLite · JavaScript · Open Library API
-
-**Highlights**
-- Auth, wishlists, ratings & reading-progress tracking
-- ISBN-based metadata via Open Library API
-- Admin dashboards for inventory & transactions
-
-<a href="#"><img src="https://img.shields.io/badge/View%20on%20GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F0F6FC" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 UniLingo AI
-
-Offline multimodal translation & language-learning system — text, voice, and image.
-
-**Stack:** Python · NLP · OpenCV · Faster-Whisper · SQLite
-
-**Highlights**
-- Speech-to-text & text-to-speech pipeline
-- OCR-based image translation
-- Interactive chatbot with progress tracking
-
-<a href="#"><img src="https://img.shields.io/badge/View%20on%20GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F0F6FC" /></a>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## `05` &nbsp; Achievements
-
-<table>
-<tr><td>🏆</td><td><b>HAXLR8 — National Hackathon</b></td><td>3rd Place</td></tr>
-<tr><td>🎓</td><td><b>Python Full Stack Development</b></td><td>QSpiders</td></tr>
-<tr><td>📊</td><td><b>Power BI for Data Analytics</b></td><td>Certification</td></tr>
-<tr><td>🗄️</td><td><b>SQL & Database Management</b></td><td>Certification</td></tr>
-</table>
-
-<br/>
-
-## `06` &nbsp; GitHub Analytics
-
-<details open>
-<summary><b>Overview</b></summary>
-<br/>
+## 📈 Contribution Graph
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DhanushM08&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7EE787&text_color=F0F6FC&hide_title=false" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushM08&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=F0F6FC&langs_count=8" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&bg_color=0D1117&color=00F7FF&line=7A00FF&point=ffffff&area=true&hide_border=true"/>
 </div>
 
-</details>
-
-<details>
-<summary><b>Streak</b></summary>
-<br/>
-
+<!-- Snake animation (requires GitHub Action - see notes below) -->
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DhanushM08&hide_border=true&background=0D1117&ring=58A6FF&fire=7EE787&currStreakLabel=F0F6FC&sideLabels=8B949E&dates=8B949E" />
+<img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </div>
 
-</details>
-
-<details>
-<summary><b>Contribution Graph</b></summary>
-<br/>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DhanushM08&bg_color=0D1117&color=58A6FF&line=7EE787&point=F0F6FC&hide_border=true" />
-</div>
-
-</details>
-
-> Replace `DhanushM08` above with your actual GitHub username so the stats render correctly.
-
-<br/>
+---
 
 <div align="center">
 
-## `07` &nbsp; Note
+### 💬 Let's Connect & Collaborate!
 
-<i>"Good software isn't built by writing more code.<br/>It's built by solving the right problems."</i>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanushmanjunatha08@gmail.com)
 
-</div>
-
-<br/>
-
-## `08` &nbsp; Connect
-
-<div align="center">
-
-<a href="#"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F0F6FC" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" /></a>
-<a href="mailto:dhanushmanjunatha08@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=7EE787" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A00FF,100:00F7FF&height=100&section=footer"/>
 
 </div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=100&section=footer"/>
