@@ -1,12 +1,16 @@
 <div align="center">
 
+<!-- Animated Wave Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7A00FF&height=220&section=header&text=Welcome%20To%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Building%20scalable%20apps%20%7C%20Exploring%20data%20%7C%20Solving%20real-world%20problems&descAlignY=48&descSize=16"/>
+
+<br/>
+
 <!-- Animated Typing Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+there%2C+I'm+Dhanush+M+%F0%9F%91%8B;Computer+Science+%26+Data+Science+Undergrad;Full+Stack+Developer+%7C+Data+Analyst;Turning+Data+Into+Decisions+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=Hi+there%2C+I'm+Dhanush+M+%F0%9F%91%8B;Computer+Science+%26+Data+Science+Undergrad;Full+Stack+Developer+%7C+Data+Analyst;Turning+Data+Into+Decisions+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<!-- Animated Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7A00FF&height=200&section=header&text=Welcome%20To%20My%20GitHub&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20scalable%20apps%20%7C%20Exploring%20data%20%7C%20Solving%20real-world%20problems&descAlignY=55&descSize=18"/>
+<br/><br/>
 
 </div>
 
