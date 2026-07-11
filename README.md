@@ -13,9 +13,9 @@
 <!-- Profile Views & Socials -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanush-manjunatha/)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanushmanjunatha08@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00F7FF?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00F7FF?style=for-the-badge&logo=vercel&logoColor=white)](https://dhanush8m.github.io/The08/)
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=for-the-badge&color=7A00FF&label=PROFILE+VIEWS)
 
 </div>
