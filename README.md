@@ -73,16 +73,16 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7A00FF&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhanush8mE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7A00FF&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush8mE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=7A00FF&currStreakLabel=00F7FF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanush8m&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=7A00FF&currStreakLabel=00F7FF"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=7A00FF&point=ffffff"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanush8m&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=7A00FF&point=ffffff"/>
 </div>
 
 ---
@@ -126,14 +126,8 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&bg_color=0D1117&color=00F7FF&line=7A00FF&point=ffffff&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanush8m&bg_color=0D1117&color=00F7FF&line=7A00FF&point=ffffff&area=true&hide_border=true"/>
 </div>
-
-<!-- Snake animation (requires GitHub Action - see notes below) -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</div>
-
 ---
 
 <div align="center">
